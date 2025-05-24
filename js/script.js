@@ -204,7 +204,7 @@ function load() {
 
                 var liMenu = document.createElement('li');
 
-                var linkMenu = document.createElement('a');
+                var linkMenu = document.createElement('a'); 
 
                 linkMenu.innerHTML = recipes.titre;
 
